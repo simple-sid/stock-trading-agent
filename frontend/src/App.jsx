@@ -46,7 +46,7 @@ export default function App() {
         <h1 className="header-title">Stock Trading Platform</h1>
         <nav className="header-nav">
           <a href="#home" className="header-link">Home</a>
-          <a href="#invest" className="header-link">Invest</a>
+          <a href="#invest" className="header-link">Analytics</a>
           <a href="#profile" className="header-link">Profile</a>
         </nav>
       </header>
